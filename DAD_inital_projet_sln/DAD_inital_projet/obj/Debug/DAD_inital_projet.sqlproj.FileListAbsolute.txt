@@ -1,0 +1,10 @@
+C:\Users\Cooler Master\Documents\swinburne\DAD_db_classTest\DAD_inital_projet_sln\DAD_inital_projet\bin\Debug\DAD_inital_projet.dacpac
+C:\Users\Cooler Master\Documents\swinburne\DAD_db_classTest\DAD_inital_projet_sln\DAD_inital_projet\obj\Debug\DAD_inital_projet.sqlprojAssemblyReference.cache
+C:\Users\Cooler Master\Documents\swinburne\DAD_db_classTest\DAD_inital_projet_sln\DAD_inital_projet\obj\Debug\DAD_inital_projet.dll
+C:\Users\Cooler Master\Documents\swinburne\DAD_db_classTest\DAD_inital_projet_sln\DAD_inital_projet\obj\Debug\DAD_inital_projet.pdb
+C:\Users\Cooler Master\Documents\swinburne\DAD_db_classTest\DAD_inital_projet_sln\DAD_inital_projet\bin\Debug\DAD_inital_projet.dll
+C:\Users\Cooler Master\Documents\swinburne\DAD_db_classTest\DAD_inital_projet_sln\DAD_inital_projet\bin\Debug\DAD_inital_projet.pdb
+C:\Users\Cooler Master\Documents\swinburne\DAD_db_classTest\DAD_inital_projet_sln\DAD_inital_projet\obj\Debug\Model.xml
+C:\Users\Cooler Master\Documents\swinburne\DAD_db_classTest\DAD_inital_projet_sln\DAD_inital_projet\obj\Debug\refactor.xml
+C:\Users\Cooler Master\Documents\swinburne\DAD_db_classTest\DAD_inital_projet_sln\DAD_inital_projet\obj\Debug\postdeploy.sql
+C:\Users\Cooler Master\Documents\swinburne\DAD_db_classTest\DAD_inital_projet_sln\DAD_inital_projet\obj\Debug\predeploy.sql
